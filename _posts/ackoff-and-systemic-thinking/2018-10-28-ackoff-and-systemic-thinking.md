@@ -62,7 +62,7 @@ Problem was to deal with work so we could mechanize it. To apply machines to it.
 
 First thing you do is to analyze it. So we took it apart. 
 
-<img src="/img/analysis.jpg" alt="Analysis" style="width: 600px;"/>
+<img src="/assets/img/analysis.jpg" alt="Analysis" style="width: 600px;"/>
 
 How far do you break it? If you read Frederick Taylor, he will tell you. You reduce work to its elements. In other words, task so simple that no two people can do it at the same time. It can only be done by one person at a time. Ackoff remembered his father to try to tighten the same screw as he was working on. Tightening the screw was a work element. As two only obstruct it.
 
@@ -98,7 +98,7 @@ When you take these different requirements and add them up. It's a whole which c
 
 This another method was, not so surprisingly, called synthesis. It's exactly the opposite of analysis. When in analysis you break a system into parts, in synthesis you view the system as a part of a larger system. Ackoff used a university as an example. In analysis you break it into parts (colleges, departments, students faculty, etc.). Using synthesis you try to understand university as part of educational system, which it is part of, and what role university plays in educational system.
 
-<img src="/img/taulukko_anasyn.jpg" alt="Analysis and Synthesis" style="width: 800px;"/>
+<img src="/assets/img/taulukko_anasyn.jpg" alt="Analysis and Synthesis" style="width: 800px;"/>
 
 Machine Age began to die when we gave up the principle of understandability and when we substituted synthetic thinking for analytic thinking when we try to understand. Not when we try to know. Systems thinking is the fusion of analysis and synthesis. Depending whether our objective is knowledge or understanding.
 
